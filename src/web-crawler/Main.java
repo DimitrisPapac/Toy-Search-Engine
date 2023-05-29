@@ -8,8 +8,7 @@
  * in a similar way). Finally, pages with a url that exceeds the maximum length that "fits"
  * in the database are also ommited. */
 
-//Developer: Dimitrius G. Papachristoudis
-//email: zelgius23@freemail.gr
+//Developer: Dimitris Papachristoudis
 //Last Update: 5/8/2012
 
 //Import the necessary API packages/classes
@@ -179,7 +178,7 @@ public class Main
 			line = line.toLowerCase();
 
 			final StringTokenizer parser = new StringTokenizer(line,
-					" \t\n\r\f.,;:!?_~^'\"(){}[]-=+–—’'|«»><=//…");
+					" \t\n\r\f.,;:!?_~^'\"(){}[]-=+â€“â€”â€™'|Â«Â»><=//â€¦");
 			
 			//For each token
 			while (parser.hasMoreTokens())
