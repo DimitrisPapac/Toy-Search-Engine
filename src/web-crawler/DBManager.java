@@ -1,6 +1,6 @@
 /* Brief Description: DBManager handles the web crawler's SQL transactions 
  * with the database. It allows us to retrieve the sites stored in our
- * database and to add new tupples corresponding to web pages and their
+ * database and to add new tuples corresponding to web pages and their
  * respective keywords. */
 
 //Developer: Dimitris Papachristoudis
