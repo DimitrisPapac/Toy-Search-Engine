@@ -1,7 +1,6 @@
 /* Brief Description: Class Page models a web page object */
 
-//Developer: Dimitrius G. Papachristoudis
-//email: zelgius23@freemail.gr
+//Developer: Dimitris Papachristoudis
 //Last Update: 5/8/2012
 
 //Import the necessary API packages/classes
