@@ -1,4 +1,4 @@
-/* Brief Description: This class is the heart for our custom web crawler. It allows
+/* Brief Description: This class is the core of our custom web crawler. It allows
  * us to crawl through the web, starting from an initial number of seed pages (which
  * can be retrieved either from a CSV file or a database). The crawling depth can be
  * modified through the MAX_DEPTH variable to allow more detailed crawling. The crawling
