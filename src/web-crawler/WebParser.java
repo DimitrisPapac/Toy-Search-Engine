@@ -3,8 +3,7 @@
  * request a specified url's page source, locate all links to other pages within this site,
  * remove tags, retrieve image titles etc. */
 
-//Developer: Dimitrius G. Papachristoudis
-//email: zelgius23@freemail.gr
+//Developer: Dimitris. Papachristoudis
 //Last Update: 5/8/2012
 
 //Import the necessary API packages/classes
@@ -98,7 +97,7 @@ public class WebParser
 		for (Element e : alts)
 		{
 			String alt = e.attr("alt");
-			StringTokenizer tokens = new StringTokenizer(alt, " \t\n\r\f.,;:!?_'\"(){}[]~^-=+–—’'|«»><=//…");
+			StringTokenizer tokens = new StringTokenizer(alt, " \t\n\r\f.,;:!?_'\"(){}[]~^-=+â€“â€”â€™'|Â«Â»><=//â€¦");
 			while (tokens.hasMoreTokens())
 			{
 				String token=tokens.nextToken();
@@ -120,7 +119,7 @@ public class WebParser
 		for (Element e : titles)
 		{
 			String title = e.attr("title");
-			StringTokenizer tokens = new StringTokenizer(title, " \t\n\r\f.,;:!?_'\"(){}[]~^-=+–—’'|«»><=//…");
+			StringTokenizer tokens = new StringTokenizer(title, " \t\n\r\f.,;:!?_'\"(){}[]~^-=+â€“â€”â€™'|Â«Â»><=//â€¦");
 			while (tokens.hasMoreTokens())
 			{
 				String token=tokens.nextToken();
