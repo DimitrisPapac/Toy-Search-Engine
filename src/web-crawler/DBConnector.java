@@ -1,7 +1,6 @@
 /* Brief Description: The DBConnector serves as a connector to the wordFreq database */
 
-//Developer: Dimitrius G. Papachristoudis
-//email: zelgius23@freemail.gr
+//Developer: Dimitris Papachristoudis
 //Last Update: 5/8/2012
 
 //Import the necessary API packages/classes
