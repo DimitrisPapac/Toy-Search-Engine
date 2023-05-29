@@ -3,8 +3,7 @@
  * results at most for the specified keywords or a message stating that no results
  * were found. */
 
-//Developer: Dimitrius G. Papachristoudis
-//email: zelgius23@freemail.gr
+//Developer: Dimitris Papachristoudis
 //Last Update: 5/8/2012
 
 //Import the necessary API packages/classes
