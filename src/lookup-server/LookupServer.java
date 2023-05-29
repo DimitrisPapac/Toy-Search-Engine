@@ -51,7 +51,7 @@ public class LookupServer
 	//Main Method
 	public static void main(String args[])
 	{
-		LookupServer s=new LookupServer();
+		LookupServer s = new LookupServer();
 		s.enableServer();
 	}
 
