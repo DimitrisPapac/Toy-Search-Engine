@@ -2,8 +2,7 @@
  * lookups for connected clients. A new thread is created for each client thus
  * making the server multithreaded. Clients communicate with the server through sockets*/
 
-//Developer: Dimitrius G. Papachristoudis
-//email: zelgius23@freemail.gr
+//Developer: Dimitris Papachristoudis
 //Last Update: 5/8/2012
 
 //Import the necessary API packages/classes
