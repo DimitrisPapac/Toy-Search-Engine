@@ -1,7 +1,6 @@
 /* Brief Description: Class Word models a word as it is found in a web page */
 
-//Developer: Dimitrius G. Papachristoudis
-//email: zelgius23@freemail.gr
+//Developer: Dimitris Papachristoudis
 //Last Update: 5/8/2012
 
 public class Word
