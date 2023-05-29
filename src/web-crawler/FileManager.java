@@ -2,8 +2,7 @@
  * csv files and either retrieve the seed pages (sites) stored there, or
  * record data regarding web pages and words. */
 
-//Developer: Dimitrius G. Papachristoudis
-//email: zelgius23@freemail.gr
+//Developer: Dimitris Papachristoudis
 //Last Update: 5/8/2012
 
 //Import the necessary API packages/classes
