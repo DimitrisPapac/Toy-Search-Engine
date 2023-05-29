@@ -2,8 +2,7 @@
  * viewed as a web page (a seed page to be more specific); for that purpose
  * we've added a function for performing this conversion - from Site to Page. */
 
-//Developer: Dimitrius G. Papachristoudis
-//email: zelgius23@freemail.gr
+//Developer: Dimitris Papachristoudis
 //Last Update: 5/8/2012
 
 public class Site
